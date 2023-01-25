@@ -1,0 +1,7 @@
+name: AnimatedTab
+version: '${project.version}'
+main: ru.cold.animatedtab.AnimatedTab
+api-version: 1.12.2
+authors: [ Cold ]
+website: https://vk.com/coldyt2022
+depend: [PlaceholderAPI]
